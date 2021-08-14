@@ -1,5 +1,10 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
+<img src="https://c.tenor.com/jkpFx4O6428AAAAC/dinosaur-trex.gif" width="600" height="250" />
+
+I know Im not looking as cool as this dinosaur, but no one will in ten million lives 😄 
+
+Here you will find some personal projects, used mainly to learn about specific topics while I improve my coding skills.
 <!--
 **IkerLondrin/IkerLondrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
